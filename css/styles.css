@@ -133,7 +133,7 @@ h2{
 
 #testimonials {
 
-    padding: 15% 5%;
+    padding: 7% 15%;
     text-align:center;
     background-color: #13003F;
     color: white;
@@ -142,15 +142,16 @@ h2{
     
     .testimonial-image {
     
-        width:200px;
-        height: 200px;
+        width:150px;
+        height: 150px;
         border-radius:100%;
         margin:20px;
+        text-align: center;
     }
 
 .testimonial-text{
 
-        width:100%;
+        font-size: 1.7rem;
         text-align: center;
         font-family: 'Arial';
     }
@@ -166,7 +167,7 @@ h2{
 
     .carousel-item {
 
-        padding: 7% 10%;
+        padding: 0% 0%;
     
     }
     
